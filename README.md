@@ -94,15 +94,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-Add your project screenshots here.
-
-```
-/screenshots/home.png
-/screenshots/chat-interface.png
-```
-
 ---
 
 ## 💡 How It Works
