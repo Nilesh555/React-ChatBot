@@ -55,7 +55,7 @@ SmartAssist/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SmartAssist.git
+git clone https://github.com/Nilesh555/SmartAssist.git
 ```
 
 ### Navigate to the project
